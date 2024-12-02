@@ -13,3 +13,6 @@ Functionality
 
 Displays validation errors if any input is invalid.
 On successful submission, a success message appears briefly.
+
+Program Files-> xampp-> htdocs ->save the project folder
+Start Xampp ->Run the porject on localhost
